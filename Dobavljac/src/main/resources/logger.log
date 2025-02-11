@@ -1,0 +1,42 @@
+sep 16, 2024 8:23:10 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.io.IOException: The system cannot find the path specified
+sep 16, 2024 8:27:43 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.io.IOException: The system cannot find the path specified
+sep 16, 2024 8:44:08 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.add(Object)" because "this.books" is null
+sep 16, 2024 8:50:31 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:50:55 PM net.etfbl.dobavljac.controller.AddBookController addBook
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:50:59 PM net.etfbl.dobavljac.controller.AddBookController addBook
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:02 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:03 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:03 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:04 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:05 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:05 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:51:05 PM net.etfbl.dobavljac.controller.SupplierController initFromFile
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 16, 2024 8:54:16 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.add(Object)" because "books" is null
+sep 16, 2024 8:59:27 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.add(Object)" because "books" is null
+sep 16, 2024 9:01:36 PM net.etfbl.dobavljac.server.ServerThread run
+SEVERE: Error: java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.add(Object)" because "books" is null

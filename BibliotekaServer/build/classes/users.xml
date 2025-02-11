@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>c</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>c@cc.cc</string>
+    </void>
+    <void property="firstName">
+     <string>cccc</string>
+    </void>
+    <void property="lastName">
+     <string>c</string>
+    </void>
+    <void property="password">
+     <string>c</string>
+    </void>
+    <void property="username">
+     <string>c</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>a</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>a@aa.aa</string>
+    </void>
+    <void property="firstName">
+     <string>dej</string>
+    </void>
+    <void property="lastName">
+     <string>a</string>
+    </void>
+    <void property="password">
+     <string>b</string>
+    </void>
+    <void property="username">
+     <string>b</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>d</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>d@dd.dd</string>
+    </void>
+    <void property="firstName">
+     <string>d</string>
+    </void>
+    <void property="lastName">
+     <string>d</string>
+    </void>
+    <void property="password">
+     <string>d</string>
+    </void>
+    <void property="username">
+     <string>d</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>a</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>tijana.lazendic@student.etf.unibl.org</string>
+    </void>
+    <void property="firstName">
+     <string>aaa</string>
+    </void>
+    <void property="lastName">
+     <string>dada</string>
+    </void>
+    <void property="password">
+     <string>a</string>
+    </void>
+    <void property="username">
+     <string>a</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>m</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>milos.pavicar@student.etf.unibl.org</string>
+    </void>
+    <void property="firstName">
+     <string>m</string>
+    </void>
+    <void property="lastName">
+     <string>m</string>
+    </void>
+    <void property="password">
+     <string>m</string>
+    </void>
+    <void property="username">
+     <string>m</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>Stevana Bulajica 13</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>milan.iliskovic@student.etf.unibl.org</string>
+    </void>
+    <void property="firstName">
+     <string>Dejan</string>
+    </void>
+    <void property="lastName">
+     <string>Janjic</string>
+    </void>
+    <void property="password">
+     <string>123456</string>
+    </void>
+    <void property="username">
+     <string>dejanj</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>test</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>dejanjanjic25072002@gmail.com</string>
+    </void>
+    <void property="firstName">
+     <string>Dejan</string>
+    </void>
+    <void property="lastName">
+     <string>Janjic</string>
+    </void>
+    <void property="password">
+     <string>test</string>
+    </void>
+    <void property="username">
+     <string>test</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>Stevana Bulajica 13</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>dejan.janjic@student.etf.unibl.org</string>
+    </void>
+    <void property="firstName">
+     <string>Dejan</string>
+    </void>
+    <void property="lastName">
+     <string>Janjic</string>
+    </void>
+    <void property="password">
+     <string>dejan</string>
+    </void>
+    <void property="username">
+     <string>dejan</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etfbl.model.User">
+    <void property="activated">
+     <boolean>true</boolean>
+    </void>
+    <void property="address">
+     <string>a</string>
+    </void>
+    <void property="blocked">
+     <boolean>false</boolean>
+    </void>
+    <void property="email">
+     <string>a@a.com</string>
+    </void>
+    <void property="firstName">
+     <string>a</string>
+    </void>
+    <void property="lastName">
+     <string>a</string>
+    </void>
+    <void property="password">
+     <string>aa</string>
+    </void>
+    <void property="username">
+     <string>aa</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

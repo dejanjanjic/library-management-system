@@ -1,0 +1,2 @@
+sep 17, 2024 10:12:37 AM net.etfbl.service.BookService saveBooksToRedis
+SEVERE: Error: redis.clients.jedis.exceptions.JedisDataException: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.

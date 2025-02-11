@@ -1,0 +1,16 @@
+jan 05, 2025 11:54:03 AM net.etfbl.biblioteka.controller.BibliotekaController showAll
+SEVERE: Error: java.io.FileNotFoundException: http://localhost:8080/BibliotekaServer/api/users
+jan 05, 2025 11:55:36 AM net.etfbl.biblioteka.controller.BooksController showAll
+SEVERE: Error: java.io.FileNotFoundException: http://localhost:8080/BibliotekaServer/api/books
+jan 05, 2025 11:55:42 AM net.etfbl.biblioteka.controller.BibliotekaController showAll
+SEVERE: Error: java.io.FileNotFoundException: http://localhost:8080/BibliotekaServer/api/users
+jan 05, 2025 11:56:02 AM net.etfbl.biblioteka.controller.BooksController showAll
+SEVERE: Error: java.io.FileNotFoundException: http://localhost:8080/BibliotekaServer/api/books
+jan 10, 2025 8:23:51 PM net.etfbl.biblioteka.controller.BibliotekaController showAll
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 10, 2025 8:24:05 PM net.etfbl.biblioteka.controller.BooksController showAll
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 10, 2025 8:24:32 PM net.etfbl.biblioteka.controller.SuppliersController loadSuppliersFromServer
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 10, 2025 8:24:44 PM net.etfbl.biblioteka.controller.SuppliersController loadSuppliersFromServer
+SEVERE: Error: java.net.ConnectException: Connection refused: connect

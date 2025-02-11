@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.etfbl.korisnikbibliotekeaplikacija.controller.RegisterController">
+   <children>
+      <Label layoutX="36.0" layoutY="24.0" text="Registration">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Label layoutX="171.0" layoutY="93.0" text="First name:" />
+      <Label layoutX="174.0" layoutY="131.0" text="Last name:" />
+      <Label layoutX="169.0" layoutY="241.0" text="Username:" />
+      <Label layoutX="179.0" layoutY="203.0" text="Address:" />
+      <Label layoutX="197.0" layoutY="167.0" text="Email:" />
+      <Label layoutX="171.0" layoutY="276.0" text="Password:" />
+      <Label layoutX="132.0" layoutY="312.0" text="Repeat password:" />
+      <TextField fx:id="firstNameField" layoutX="265.0" layoutY="89.0" />
+      <TextField fx:id="lastNameField" layoutX="265.0" layoutY="127.0" />
+      <TextField fx:id="emailField" layoutX="265.0" layoutY="163.0" />
+      <TextField fx:id="addressField" layoutX="265.0" layoutY="199.0" />
+      <PasswordField fx:id="passwordField" layoutX="265.0" layoutY="272.0" />
+      <PasswordField fx:id="repeatPasswordField" layoutX="265.0" layoutY="308.0" />
+      <TextField fx:id="usernameField" layoutX="265.0" layoutY="237.0" />
+      <Button layoutX="354.0" layoutY="361.0" mnemonicParsing="false" onMouseClicked="#register" text="Register" />
+      <Label fx:id="status" alignment="CENTER_RIGHT" layoutX="105.0" layoutY="338.0" prefHeight="17.0" prefWidth="309.0" text="Label" textAlignment="RIGHT" visible="false" />
+      <Button layoutX="265.0" layoutY="361.0" mnemonicParsing="false" onMouseClicked="#showSignInWindow" text="Sign in" />
+   </children>
+</AnchorPane>

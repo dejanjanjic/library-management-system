@@ -1,0 +1,14 @@
+sep 17, 2024 9:54:27 AM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController getMessages
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+sep 17, 2024 9:54:37 AM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController sendMessage
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 20, 2025 7:00:10 PM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController getMessages
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 20, 2025 7:00:12 PM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController getMessages
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 20, 2025 7:00:15 PM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController sendMessage
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 20, 2025 7:00:59 PM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController sendMessage
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
+jan 20, 2025 7:01:05 PM net.etfbl.korisnikbibliotekeaplikacija.controller.ChatController getMessages
+SEVERE: Error: java.net.ConnectException: Connection refused: connect
